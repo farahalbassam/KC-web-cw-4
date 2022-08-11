@@ -1,0 +1,53 @@
+h1{
+
+    width: 100px;
+    background-color: orange;
+    border: 1px black solid;
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 10px;
+    opacity: 0.5px;
+
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    border-radius: 100px;
+    opacity: 0.5px;
+    transition: all;
+}
+
+.red{
+
+    background-color: red;
+    opacity: 0.5px;
+}
+
+.red:hover{
+
+    background-color: rgb(239, 107, 107);
+}
+
+
+
+.yellow{
+
+    background-color: yellow;
+}
+
+.yellow:hover{
+
+    background-color: rgb(234, 234, 112);
+}
+
+.green{
+
+    background-color: green;
+}
+
+.green:hover{
+
+    background-color: rgb(84, 210, 84);
+}
